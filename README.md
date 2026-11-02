@@ -28,7 +28,7 @@ Other planned features include:
 
 ### System Diagram
 
-![Blackjack System Diagram](docs/diagram.png)
+![Blackjack System Diagram](BlackJack%20(2).drawio)
 
 ## Tech Stack
 
