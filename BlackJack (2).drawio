@@ -1,0 +1,186 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="utp50hVELRIE-qXjICLi">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#66FF66)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-4" edge="1" parent="1" source="k7q-xo8cdpgKZoHY1gkj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#003300);">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="367.6" y="198.8" />
+              <mxPoint x="140.4" y="198.8" />
+            </Array>
+            <mxPoint x="140.39999389648438" y="369.20001220703125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ndg69oENjBWA4nekigjv-1" connectable="0" parent="k7q-xo8cdpgKZoHY1gkj-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontColor=light-dark(#000000,#003300);defaultLabelBackgroundColor=page;" value="Initializes Deck/Shoe" vertex="1">
+          <mxGeometry relative="1" x="-0.0514" y="1" as="geometry">
+            <mxPoint x="57" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-8" edge="1" parent="1" source="k7q-xo8cdpgKZoHY1gkj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;fontSize=11;fontColor=light-dark(#000000,#000000);">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="319.5999755859375" y="367.60003662109375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ndg69oENjBWA4nekigjv-6" connectable="0" parent="k7q-xo8cdpgKZoHY1gkj-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontColor=light-dark(#000000,#000000);defaultLabelBackgroundColor=page;" value="Sets Difficulty" vertex="1">
+          <mxGeometry relative="1" x="0.0477" y="-1" as="geometry">
+            <mxPoint x="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-10" edge="1" parent="1" source="k7q-xo8cdpgKZoHY1gkj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);" value="Cards get dealt&lt;div&gt;&amp;nbsp;to dealer/&lt;span style=&quot;background-color: transparent;&quot;&gt;player&lt;/span&gt;&lt;/div&gt;">
+          <mxGeometry relative="1" x="0.0349" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="528.4" y="368.4" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-11" edge="1" parent="1" source="k7q-xo8cdpgKZoHY1gkj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="k7q-xo8cdpgKZoHY1gkj-13">
+          <mxGeometry relative="1" x="0.0191" as="geometry">
+            <mxPoint x="717.2000122070312" y="388.4000244140625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ndg69oENjBWA4nekigjv-7" connectable="0" parent="k7q-xo8cdpgKZoHY1gkj-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);" value="Initialize money and wagers" vertex="1">
+          <mxGeometry relative="1" x="0.5632" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-34" edge="1" parent="1" source="k7q-xo8cdpgKZoHY1gkj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="k7q-xo8cdpgKZoHY1gkj-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ndg69oENjBWA4nekigjv-15" connectable="0" parent="k7q-xo8cdpgKZoHY1gkj-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);" value="logic behind the game" vertex="1">
+          <mxGeometry relative="1" x="0.0877" y="-1" as="geometry">
+            <mxPoint x="-24" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-41" edge="1" parent="1" source="k7q-xo8cdpgKZoHY1gkj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;entryX=-0.05;entryY=0.693;entryDx=0;entryDy=0;fontColor=light-dark(#000000,#000000);" target="k7q-xo8cdpgKZoHY1gkj-35">
+          <mxGeometry relative="1" x="-0.2064" as="geometry">
+            <Array as="points">
+              <mxPoint x="29.3" y="166.6" />
+              <mxPoint x="29.3" y="724.5" />
+            </Array>
+            <mxPoint x="46.41" y="770.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ndg69oENjBWA4nekigjv-3" connectable="0" parent="k7q-xo8cdpgKZoHY1gkj-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontColor=light-dark(#000000,#000000);defaultLabelBackgroundColor=page;" value="overall game ui" vertex="1">
+          <mxGeometry relative="1" x="-0.6985" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="BlackJack Game" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="164" as="geometry" />
+        </mxCell>
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-26" edge="1" parent="1" source="k7q-xo8cdpgKZoHY1gkj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;entryX=0.009;entryY=0.593;entryDx=0;entryDy=0;" target="k7q-xo8cdpgKZoHY1gkj-27">
+          <mxGeometry relative="1" x="0.0013" as="geometry">
+            <Array as="points">
+              <mxPoint x="133" y="427.4" />
+              <mxPoint x="133" y="551.7" />
+            </Array>
+            <mxPoint x="133" y="562.24" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ndg69oENjBWA4nekigjv-10" connectable="0" parent="k7q-xo8cdpgKZoHY1gkj-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);" value="track dealt cards" vertex="1">
+          <mxGeometry relative="1" x="0.0874" y="-1" as="geometry">
+            <mxPoint x="5" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;The Shoe&lt;/div&gt;Deck/Card system" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-23" edge="1" parent="1" source="k7q-xo8cdpgKZoHY1gkj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;entryX=0.37;entryY=0.164;entryDx=0;entryDy=0;" target="k7q-xo8cdpgKZoHY1gkj-21">
+          <mxGeometry relative="1" x="-0.3262" as="geometry">
+            <Array as="points">
+              <mxPoint x="404.8" y="427.4" />
+            </Array>
+            <mxPoint x="412.4" y="572.4" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ndg69oENjBWA4nekigjv-13" connectable="0" parent="k7q-xo8cdpgKZoHY1gkj-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);" value="changes how&amp;nbsp;&lt;div&gt;many times&lt;/div&gt;&lt;div&gt;&amp;nbsp;this can&amp;nbsp;&lt;/div&gt;&lt;div&gt;be used&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0932" y="-2" as="geometry">
+            <mxPoint x="-15" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-25" edge="1" parent="1" source="k7q-xo8cdpgKZoHY1gkj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" x="-0.0464" as="geometry">
+            <mxPoint x="238" y="511.82" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ndg69oENjBWA4nekigjv-11" connectable="0" parent="k7q-xo8cdpgKZoHY1gkj-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);" value="How many times&lt;div&gt;&amp;nbsp;can you check&amp;nbsp;&lt;/div&gt;&lt;div&gt;this number?&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1375" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Difficultly Manager" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-24" edge="1" parent="1" source="k7q-xo8cdpgKZoHY1gkj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);">
+          <mxGeometry relative="1" x="-0.3508" as="geometry">
+            <mxPoint x="437.2" y="574.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ndg69oENjBWA4nekigjv-14" connectable="0" parent="k7q-xo8cdpgKZoHY1gkj-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontColor=light-dark(#000000,#000000);defaultLabelBackgroundColor=page;" value="strategy depends&amp;nbsp;&lt;div&gt;on what&amp;nbsp;&lt;/div&gt;&lt;div&gt;was dealt&lt;/div&gt;&lt;div&gt;&amp;nbsp;to both&amp;nbsp;&lt;/div&gt;&lt;div&gt;player/dealer&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0772" y="-2" as="geometry">
+            <mxPoint x="32" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Player/Dealer Hands" vertex="1">
+          <mxGeometry height="60" width="120" x="472" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-14" edge="1" parent="1" source="k7q-xo8cdpgKZoHY1gkj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);" value="track chips and win/loss data">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="713" y="511.60003662109375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Betting/Chip System" vertex="1">
+          <mxGeometry height="60" width="120" x="653" y="372" as="geometry" />
+        </mxCell>
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-17" edge="1" parent="1" source="k7q-xo8cdpgKZoHY1gkj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="716" y="656.4000244140625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ndg69oENjBWA4nekigjv-9" connectable="0" parent="k7q-xo8cdpgKZoHY1gkj-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);" value="Summarize session data and show line graph" vertex="1">
+          <mxGeometry relative="1" x="-0.1603" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Game Stats" vertex="1">
+          <mxGeometry height="60" width="120" x="656" y="516" as="geometry" />
+        </mxCell>
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-39" edge="1" parent="1" source="k7q-xo8cdpgKZoHY1gkj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);" target="k7q-xo8cdpgKZoHY1gkj-35" value="show session data">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="End of Run screen" vertex="1">
+          <mxGeometry height="60" width="120" x="653" y="648" as="geometry" />
+        </mxCell>
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-37" edge="1" parent="1" source="k7q-xo8cdpgKZoHY1gkj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);" target="k7q-xo8cdpgKZoHY1gkj-35" value="hint to ui">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Strategy/Hint System" vertex="1">
+          <mxGeometry height="60" width="120" x="368" y="576" as="geometry" />
+        </mxCell>
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-28" edge="1" parent="1" source="k7q-xo8cdpgKZoHY1gkj-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.173;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="k7q-xo8cdpgKZoHY1gkj-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ndg69oENjBWA4nekigjv-12" connectable="0" parent="k7q-xo8cdpgKZoHY1gkj-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);" value="count&amp;nbsp;&lt;div&gt;influences&amp;nbsp;&lt;div&gt;decisions&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0131" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-42" edge="1" parent="1" source="k7q-xo8cdpgKZoHY1gkj-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.307;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;fontColor=light-dark(#000000,#000000);" target="k7q-xo8cdpgKZoHY1gkj-35" value="show running count">
+          <mxGeometry relative="1" x="-0.367" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Card Counting" vertex="1">
+          <mxGeometry height="60" width="120" x="188" y="516" as="geometry" />
+        </mxCell>
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="BlackJack logic" vertex="1">
+          <mxGeometry height="60" width="120" x="171" y="62" as="geometry" />
+        </mxCell>
+        <mxCell id="k7q-xo8cdpgKZoHY1gkj-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Game Interface" vertex="1">
+          <mxGeometry height="60" width="120" x="368" y="684" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
